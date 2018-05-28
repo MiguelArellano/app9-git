@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
--<widget version="1.0.0" id="com.phonegap.app9" xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets">
+<widget version="1.0.0" id="com.phonegap.app9" xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets">
 
 <name>app9-Geolocalización</name>
 
